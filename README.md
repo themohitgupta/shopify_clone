@@ -10,7 +10,7 @@
 
 ---
 
-## Shopify-clone [Live Link](https://Shopify-clone-themohitgupta.netlify.app)
+## Shopify-clone [Live Link](https://shopify-clone-themohitgupta.netlify.app)
 
 - Responsive Clone of Shopify
 
